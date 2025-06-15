@@ -1,4 +1,4 @@
-# Trabajo Practico 6 - Programacion 1
+# Trabajo Practico 7 - Programacion 1
 
 ## Datos del estudiante
 
