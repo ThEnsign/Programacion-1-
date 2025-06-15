@@ -1,4 +1,4 @@
-# Trabajo Practico 2 - Estructuras Secuenciales en Python
+# Trabajo Practico 1 - Estructuras Secuenciales en Python
 
 ## Datos del estudiante
 
