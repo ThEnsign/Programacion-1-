@@ -1,4 +1,5 @@
-## Datos del estudiante
+Trabajo Practico 6 - Programacion 1
+##Datos del estudiante
 
 - Nombre: Thiago Francisco Fernandez Jara  
 - Materia: Programacion 1  
